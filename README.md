@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aug-9th&label=Profile%20views&color=0e75b6&style=flat" alt="Aug-9th" /> </p>
 
-<p align="left"> <a href="https://github.com/Aug-9th/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aug-9th" alt="Aug-9th" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aug-9th" alt="Aug-9th" /></a> </p>
 
 - 🔭 I’m currently working on [Posts and Telecommunications Institute of Technology](https://portal.ptit.edu.vn/)
 
